@@ -1,14 +1,4 @@
-using JustBook;
-using JustBook.Controllers;
-using JustBook.Models;
-using JustBook.ViewModel;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Moq;
-using System;
-using System.IO;
-using System.Web;
-using System.Web.Mvc;
-using System.Web.Routing;
+
 
 namespace JustBook_Tests.TestScripts.UserHomeControllerTests
 {
